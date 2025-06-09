@@ -55,7 +55,7 @@
   "bugs": {
     "url": "https://github.com/IreneRadix/web-larek/issues"
   },
-  "homepage": "https://github.com/IreneRadix",
+  "homepage": "https://ireneradix.github.io/web-larek/",
   "dependencies": {
     "process": "^0.11.10"
   }
